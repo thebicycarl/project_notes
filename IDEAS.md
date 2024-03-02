@@ -1,0 +1,1 @@
+List out ideas. Table? Then have a file to plan out each idea in more detail
