@@ -3,7 +3,7 @@
 File to make overall plan, what to prioritise
 
 ## Small tasks: 
-- Add challenges folder to gitHub repo
+- Add challenges folder to gitHub repo (complete)
 - Build brand/style guide 
 - Learn how to format markdown documents
 
