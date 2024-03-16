@@ -9,6 +9,10 @@ File to make overall plan, what to prioritise
 
 ## 1. Complete SJ course
 
+## 1a. FreeCodeCamp certification
+
+Just complete the projects to get the certification
+
 ## 2. Complete SJ frameworks on roadmap
 
 ## 3. Pick and complete 3 projects (based on low time to satisfaction)
